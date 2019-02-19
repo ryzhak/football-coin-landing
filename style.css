@@ -3,3 +3,89 @@ body {
 	font-family: Ubuntu;
 	font-size: 16px;
 }
+
+.color-blue {
+	color: #273A5B;
+}
+
+.color-grey {
+	color: #6C798F;
+}
+
+.color-white {
+	color: #ffffff;
+}
+
+.fs-12 {
+	font-size: 12px;
+}
+
+.fs-14 {
+	font-size: 14px;
+}
+
+.fs-18 {
+	font-size: 18px;
+}
+
+.fs-27 {
+	font-size: 27px;
+}
+
+.fs-48 {
+	font-size: 48px;
+}
+
+.mt-15p {
+	margin-top: 15%;
+}
+
+.pt-15p {
+	padding-top: 15%;
+}
+
+.pl-10p {
+	padding-left: 10%;
+}
+
+/* Header */
+.block-header {
+	background: url("img/header_background.png");
+	background-size: cover;
+}
+
+.block-header .block-header__menu a {
+	color: #ffffff;
+	font-size: 14px;
+	margin-left: 5%;
+}
+
+.block-header .block-header__menu_buy {
+	padding: 20px;
+    background: #0A1F44;
+    border-radius: 25px;
+}
+
+.block-header .block-header__content a {
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.block-header .block-header__content_buy {
+	padding: 20px;
+    background: #0A1F44;
+    border-radius: 25px;
+}
+
+.block-header .block-header__read-more .read-more__container {
+	background: #ffffff;
+}
+
+.block-header .block-header__read-more .container__content {
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.block-header .block-header__read-more .read-more__container a:hover {
+	color: #6C798F;
+}
