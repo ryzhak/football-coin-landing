@@ -4,6 +4,10 @@ body {
 	font-size: 16px;
 }
 
+.bg-green {
+	background: #57D968;
+}
+
 .color-blue {
 	color: #273A5B;
 }
@@ -104,4 +108,25 @@ body {
 
 .block-header .block-header__read-more .read-more__container a:hover {
 	color: #6C798F;
+}
+
+/* Roadmap */
+.block-roadmap {
+	background: #F8F9FB;
+}
+
+.block-roadmap .block-roadmap__container_with-worder {
+    border-right: 4px solid #E1E4E8;
+}
+
+.block-roadmap .block-roadmap__container_dot {
+	position: absolute;
+    right: -8px;
+    top: -14px;
+}
+
+.block-roadmap .block-roadmap__container_dot-last {
+	position: absolute;
+    right: -8px;
+    bottom: -8px;
 }
