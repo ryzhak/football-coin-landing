@@ -8,6 +8,17 @@ body {
 	background: #57D968;
 }
 
+.btn-green {
+	padding: 15px;
+    background: #57D968;
+    color: #ffffff;
+    border-radius: 18px;
+}
+
+.btn-green:hover {
+	color: #ffffff;
+}
+
 .color-blue {
 	color: #273A5B;
 }
