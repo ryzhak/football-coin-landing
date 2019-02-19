@@ -141,3 +141,12 @@ body {
     right: -8px;
     bottom: -8px;
 }
+
+/* Team */
+.block-team {
+	background: #0A1F44;
+}
+
+.block-team img, .block-advisors img {
+	width: 100%;
+}
