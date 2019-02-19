@@ -8,8 +8,20 @@ body {
 	color: #273A5B;
 }
 
+.color-dark-blue {
+	color: #0A1F44;
+}
+
+.color-green {
+	color: #57D968;
+}
+
 .color-grey {
 	color: #6C798F;
+}
+
+.color-light-black {
+	color: #272727;
 }
 
 .color-white {
@@ -30,6 +42,10 @@ body {
 
 .fs-27 {
 	font-size: 27px;
+}
+
+.fs-32 {
+	font-size: 32px;
 }
 
 .fs-48 {
