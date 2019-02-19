@@ -47,6 +47,10 @@ body {
 	font-size: 12px;
 }
 
+.fs-13 {
+	font-size: 13px;
+}
+
 .fs-14 {
 	font-size: 14px;
 }
@@ -65,6 +69,10 @@ body {
 
 .fs-48 {
 	font-size: 48px;
+}
+
+.mt-12p {
+	margin-top: 12%;
 }
 
 .mt-15p {
@@ -149,4 +157,16 @@ body {
 
 .block-team img, .block-advisors img {
 	width: 100%;
+}
+
+/* Press */
+.block-press {
+	background: #0A1F44;
+	height: 720px;
+	overflow: hidden;
+}
+
+.block-press .block-press__twitter-block {
+	background: #1c3052;
+	border-radius: 10px;
 }
