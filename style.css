@@ -170,3 +170,14 @@ body {
 	background: #1c3052;
 	border-radius: 10px;
 }
+
+/* Footer */
+.block-footer {
+	border-top: 4px solid #57D968;
+}
+
+.block-footer a {
+	color: #0A1F44;
+	font-size: 14px;
+	font-weight: bold;
+}
